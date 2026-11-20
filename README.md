@@ -43,6 +43,3 @@ El servidor queda disponible en http://localhost:3000
 
 Categorías válidas para el filtro: `vias`, `alumbrado`, `residuos`, `agua`, `espacio`, `seguridad`.
 
-## Video de sustentación
-
-Enlace: _(pegar aquí el enlace del video)_
